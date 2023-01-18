@@ -42,5 +42,4 @@ Impossibilité de se connecter avec l'utilisateur root sans mot de passe.
 
 Modifier dans le fichier bddData.php les variables $login et $pass si besoin. (essayé avec login et mot de passe perso)
 
-# Concernant les autres aspects du site, je vous invite à lire le rapport concernant ce
-dernier
+# Concernant les autres aspects du site, je vous invite à lire le rapport concernant ce dernier
